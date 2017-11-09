@@ -1,0 +1,5 @@
+name "wagomu"
+description "Chinese and Japanese Handwriting recognition. Port of tegaki wagomu engine"
+authors "webfreak"
+copyright "Copyright © 2017, webfreak"
+license "GPL-2.0"
